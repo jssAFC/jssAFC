@@ -1,9 +1,9 @@
-<div align="center">
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif" align="center" style="width: 100%" />
-</div>  
+### <div align="center">Hey there 👋, I'm Jaideep, a Computer Science student 👨‍💻</div>  
   
 
-### <div align="center">I'm Jaideep, a Computer Science and Engineering students pursuing Btech at Lovely Professional University 👨‍💻</div>  
+<div align="center">
+<img src="https://cdn.pixabay.com/animation/2024/07/07/07/05/07-05-11-50_512.gif" align="center" style="width: 100%" />
+</div>  
   
 
 - 🔭 I’m currently working on [Full Stack Web App](https://github.com/jssAFC/Web-App)  
@@ -13,6 +13,9 @@
   
 
 - ⚡ I work on  Linux Mint   
+  
+
+- 📧 Reach me out at jss3392192@gmail.com  
   
 
 <br/>  
@@ -106,28 +109,8 @@
 
 
 
-## Leetcode  
+### Leetcode  
 https://leetcode.com/u/mnuIajhp6d/  
-
-
-</td></tr></table>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" align="left" height="200" width="200" />  
-
-
-</td><td valign="top" width="50%">
-
-### Reach me out at  
-  
-
-#### **Gmail -> jss3392192@gmail.com**  
-  
-
-**Discord -> _bivalvan**  
 
 
 </td></tr></table>
