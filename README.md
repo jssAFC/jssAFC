@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino_with_hat.gif" align="center" style="width: 100%" />
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/download.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -106,7 +106,7 @@
 
 
 
-### Leetcode  
+## Leetcode  
 https://leetcode.com/u/mnuIajhp6d/  
 
 
@@ -116,7 +116,7 @@ https://leetcode.com/u/mnuIajhp6d/
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" align="left" height="100" width="100" />  
+<img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" align="left" height="200" width="200" />  
 
 
 </td><td valign="top" width="50%">
