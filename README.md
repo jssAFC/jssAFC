@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://cdn.pixabay.com/animation/2024/07/07/07/05/07-05-11-50_512.gif" align="center" style="width: 50%" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/189e7a101087613.5f17129d61be1.gif" align="center" style="width: 40%" />
 </div>  
   
 
